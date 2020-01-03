@@ -1,5 +1,5 @@
 # chefMEup
-https://chef-me-up.herokuapp.com
+
 
 chefMEup is created to render recipes based on user's ingredients. It helps user to cook a simple, yet delicious, meal.
 Users can quickly mark the ingredients they have in their fridge and have access to all the recipes in our database that 
